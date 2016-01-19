@@ -34,9 +34,9 @@
 ###5.Tham số -c để hiện ra tổng dung lượng ổ đữa ở cuối
     du -ac /home/stack/devstack/
 
-<img src="http://i.imgur.com/Q5uyBWr.png:>
+<img src="http://i.imgur.com/Q5uyBWr.png:">
 
-###6.Tham số --exclude="file" đửaa màn hình tất cả các file trừ file đc khai báo
+##6.Tham số --exclude="file" đửaa màn hình tất cả các file trừ file đc khai báo
     du --exclude="*.sh" /home/stack/devstack/
 
 <img src="http://i.imgur.com/0udqDeT.png">
